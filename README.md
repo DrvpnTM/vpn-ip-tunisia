@@ -1,18 +1,17 @@
-# VPN IP Tunisia — Dr VPN
+# VPN IP Tunisia — Fast, Secure VPN for Tunisia
 
-**VPN IP Tunisia** is a fast, secure and free VPN for Android. Get a **Tunisia IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Tunisia** is a free, open-source, ad-free VPN app for Android, built for users in Tunisia. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Tunisia (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_tn_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-tunisia/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Tunisia IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Tunisia, Tunisia VPN, VPN IP Tunisia, Tunisia IP address, free VPN Tunisia, buy VPN Tunisia, fast VPN Tunisia, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Tunisia, free VPN Tunisia, fast VPN, VPN IP Tunisia, Android VPN, unblock websites Tunisia.</sub>
